@@ -1,0 +1,7 @@
+Ajustes aplicados nesta entrega:
+- Corrigido o entrypoint do frontend para permitir build do projeto.
+- Adicionados ao frontend os arquivos ausentes necessários para build (main.tsx, index.css, utils.ts, Modal.tsx, páginas financeiras e ActivityLogs).
+- Build validado com sucesso via `npm run build`.
+
+Observação:
+- O projeto contém a migration principal em `supabase/migrations/20240319000000_initial_schema.sql`.

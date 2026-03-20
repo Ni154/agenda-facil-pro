@@ -1,0 +1,9 @@
+{
+  "name": "agenda-facil-pro",
+  "description": "Sistema completo de gestão para clínicas e centros de estética com multiempresa, agenda, vendas, financeiro e estoque.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
